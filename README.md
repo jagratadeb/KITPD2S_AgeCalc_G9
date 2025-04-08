@@ -3,6 +3,9 @@
 ## Overview
 This Age Calculator is a simple web application that allows users to calculate their age based on their date of birth.
 
+## Visit the project
+This link will redirect you to the project: [View Project](https://jagratadeb.github.io/KITPD2S_AgeCalc_G9/)
+
 ## Features
 - Input field for entering the date of birth.
 - Buttons to calculate and reset the form.
